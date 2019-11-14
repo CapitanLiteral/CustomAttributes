@@ -1,6 +1,8 @@
 {
     "name": "CustomAttributes.Editor",
-    "references": [],
+    "references": [
+        "GUID:26c1ee447e915a4449bb1f8fcf7a4900"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
